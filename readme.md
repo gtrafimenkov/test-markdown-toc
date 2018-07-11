@@ -3,10 +3,10 @@
 - [Test Markdown TOC (Table of Content)](#test-markdown-toc-table-of-content)
 	- [Header ASCII (mixed case)](#header-ascii-mixed-case)
 	- [header ascii (lower case)](#header-ascii-lower-case)
-	- [Русский (Russian)](#Русский-russian)
-	- [русский (russian)](#русский-russian)
-	- [Русский](#Русский)
-	- [русский](#русский)
+	- [Русский (Russian)](#русский-russian)
+	- [русский (russian)](#русский-russian-1)
+	- [Русский](#русский)
+	- [русский](#русский-1)
 
 This file is used for testing generation of markdown TOC
 
